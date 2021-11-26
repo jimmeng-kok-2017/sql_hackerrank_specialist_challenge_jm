@@ -1,2 +1,2 @@
-# SQL Data Product Specialist Hackerrank Challenge
+# SQL Specialist (Data) Hackerrank Challenge
 MySQL is used in this challenge
