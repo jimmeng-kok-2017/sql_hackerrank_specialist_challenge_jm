@@ -46,7 +46,7 @@ From the data tables, determine the location having the most companies. List the
 | B2 | New Joseph |
 
 ## Sample Output
-`Chris Wright-Phillips`
+`Chris Wright-Phillips`<br>
 `Sam HazardEden`
 
 ## Explanation
