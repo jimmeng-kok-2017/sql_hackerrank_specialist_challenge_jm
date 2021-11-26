@@ -7,7 +7,7 @@ Write a query to print the maximum number of discounted tours any one family in 
 
 ## Schema
 **FAMILIES**:
-| Name | Type | Description |
-| ID | INTEGER | Unique ID of the family |
-| NAME | STRING | Name of the primary contact |
-| FAMILY_SIZE | INTEGER | Size of the family |
+| :Name: | :Type: | :Description: |
+| :ID: | :INTEGER: | :Unique ID of the family: |
+| :NAME: | :STRING: | :Name of the primary contact: |
+| :FAMILY_SIZE: | :INTEGER: | :Size of the family: |
