@@ -1,1 +1,1 @@
-# sql_hackerrank_specialist_challenge_jm
+# SQL Specialist Hackerrank Challenge
