@@ -35,5 +35,5 @@ Write a query to print the maximum number of discounted tours any one family in 
 | 3 | Brazil | 4 |
 
 ## Sample Output and Explanation
-Sample Output: 3
+Sample Output: 3 <br>
 Explanation: The Thomas family can choose from any of the 3 tours and qualify for the discount. The Gray family only qualifies for 1.
