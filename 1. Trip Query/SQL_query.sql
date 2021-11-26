@@ -2,13 +2,13 @@
 
 CREATE TABLE FAMILIES (
     ID int,
-    NAME varchar(255),
+    NAME char(255),
     FAMILY_SIZE int
 );
 
 CREATE TABLE COUNTRIES (
     ID int,
-    NAME varchar(255),
+    NAME char(255),
     MIN_SIZE int
 );
 
