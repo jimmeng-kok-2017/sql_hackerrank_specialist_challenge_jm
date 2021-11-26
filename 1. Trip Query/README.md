@@ -6,6 +6,6 @@ A travel and tour company has two tables relating to customers: *FAMILIES* and *
 Write a query to print the maximum number of discounted tours any one family in the FAMILIES table can choose from.
 
 ## Schema
-| **FAMILIES**  |
+| **FAMILIES**        |
 | :-----: | :-: | :-: |
 | Seconds | 301 | 283 |
