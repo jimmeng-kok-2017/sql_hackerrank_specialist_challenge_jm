@@ -37,13 +37,12 @@ VALUES
 /* ANSWER */
 
 select p.name, max_companies.name from people p,
-(select co.id, co.name from companies co where co.location_id = 
-(select l.id from locations l where l.name = 
+(select co.id, co.name from companies co where co.location_id =
+(select l.id from locations l where l.name =
 (select cll.loc_name from
 (select cl.loc_name, count(cl.c_id) as company_count
 from
-(select c.id as c_id, c.name as c_name, l.name as
-loc_name from companies c, locations l
+(select c.id as c_id, c.name as c_name, l.name as loc_name from companies c, locations l
 where c.location_id = l.id) as cl
 group by cl.loc_name
 order by company_count desc) as cll
